@@ -12,3 +12,11 @@
 # adiciona no repositorio a modificação.
 # git commit -m "comentario suscinto do que foi feito"
 #
+#
+#git diff - verifica o que aconteceu no arquivo 
+# 
+# git log - mostra o historico do arquivo.
+# 
+# 
+# 
+# #
