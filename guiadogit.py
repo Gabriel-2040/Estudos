@@ -26,4 +26,5 @@
 # git push "origin que é o repositorio remoto" e o "main" ou "master" que é o nosso local. 
 # git push  - ele traz modiicações feitas no github online para o seu arquivo e "merge" tudo junto.
 # 
-# #
+# git fetch - ele diferente do git pull ele traz a informação antes. dai voc pode usar o git diff para ver a diferenças
+# e depois usar o git pull pra juntar os arquivos caso esteja coerente.
