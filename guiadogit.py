@@ -32,7 +32,7 @@
 #=======
 # git remote - antes para acessar o repositorio remoto
 # git push - vem apos o commit. ele envia tudo para o repositorio online do github 
-
+# git push origin main
 # git pull  - ele traz modiicações feitas no github online para o seu arquivo e "merge" tudo junto.
 # 
 #>>>>>>> Stashed changes
