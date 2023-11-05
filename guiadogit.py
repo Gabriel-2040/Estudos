@@ -1,5 +1,5 @@
 
-# 4 areasrelacionadas ao GIT - repositorio de revisionamento
+# 4 areasrelacionadas ao GIT - repositorio de versionamento
 #untracked - arquivo que não esta mapeado pelo git.
 #unmodified - arquivo ja mapeado mas não foi modificado
 #Modified - arquivo modificado
@@ -15,8 +15,14 @@
 #
 #git diff - verifica o que aconteceu no arquivo 
 # 
-# git log - mostra o historico do arquivo.
+# git log - mostra o historico do arquivo. aperta q para sair
 # 
+# git restore nome do arquivo
+# git restore --staged nome_do_arquivo ,  faz com que o arquivo ao inves de voltar ao que foi feito antes só 
+# volta da area de staged para a area de changes #
 # 
+# git push - vem apos o commit. ele envia tudo para o repositorio online do github 
+# 
+# git push  - ele traz modiicações feitas no github online para o seu arquivo e "merge" tudo junto.
 # 
 # #
