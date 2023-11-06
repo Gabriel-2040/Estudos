@@ -36,3 +36,17 @@
 # git pull  - ele traz modiicações feitas no github online para o seu arquivo e "merge" tudo junto.
 # 
 #>>>>>>> Stashed changes
+#branches
+# são caminhos que o codigo pode tomar. os commits estão sendo feitos e verificação em qual branch nos estamos.
+# para criar uma branch faça - git branch nomedabranch# ja cria uma branch ou pode ir no icone embaixo a esquerda.
+# HEAD é o ponteiro que indica qual branch esta sendo usada
+# indica onde esta o head - git log --oneline -- decorate  
+# para mudar de branch - git checkout branchparair
+# verifica qual branch estamos - git branch 
+# deletar branch não mesclado - git branch -d nomedobranch
+# deletar branch mesclado -  git branch -D nomedobranch #
+# Certifique-se de estar na ramificação de destino:
+# git checkout branch-de-destino
+# Em seguida, você pode usar o comando git merge para mesclar a ramificação que deseja incorporar na ramificação de destino
+# git merge branch-a-ser-mesclada
+
